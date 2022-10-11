@@ -17,7 +17,7 @@
 
 
 ## Tecnologías  
-<table style="background-color:#eee"><tr><td valign="top" width="50%">
+<table style="background-color:white"><tr><td valign="top" width="50%">
 
 
 
