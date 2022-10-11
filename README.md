@@ -66,4 +66,4 @@ Mail: yafarrodrigo@yahoo.com.ar
 
 
 ## Estadísticas en Github  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yafarrodrigo&hide_border=true&layout=compact" align="left" />  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yafarrodrigo&show_icons=true&theme=radical)  
