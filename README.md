@@ -10,7 +10,7 @@
 - 🎓 Actualmente aprendiendo Django  
   
 
-- 🎓 A futuro me gustaría aprender mas sobre backend y seguridad  
+- 🎓 A futuro me gustaría produndizar más en backend y base de datos  
   
 
 <br/>  
