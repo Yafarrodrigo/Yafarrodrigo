@@ -4,14 +4,16 @@
 ![]()  
   
 
-- 🎓 Javascript - React.js - Node.js - postgreSQL - MongoDB - Python  
+- :bowtie: Javascript - React.js - Node.js - Express - postgreSQL - MongoDB - Python 
   
 
-- 🎓 Actualmente aprendiendo Django  
+- 🎓 Actualmente aprendiendo Django.
   
 
-- 🎓 A futuro me gustaría produndizar más en backend y base de datos  
+- 🎓 A futuro me gustaría produndizar más en backend, base de datos y seguridad.  
+
   
+- :video_game: Como hobby me gusta armar juegos utilizando exclusivamente html,css y javascript.
 
 <br/>  
 
