@@ -13,7 +13,7 @@
 - 🎓 A futuro me gustaría produndizar más en backend, base de datos y seguridad.  
 
   
-- :video_game: Como hobby me gusta armar juegos utilizando exclusivamente html,css y javascript.
+- :video_game: Como hobby me gusta programar juegos utilizando exclusivamente html,css y javascript.
 
 <br/>  
 
