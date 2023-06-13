@@ -7,9 +7,6 @@
 - :bowtie: Javascript - React.js - Node.js - Express - postgreSQL - MongoDB - Python 
   
 
-- 🎓 Actualmente aprendiendo Django.
-  
-
 - 🎓 A futuro me gustaría produndizar más en backend, base de datos y seguridad.  
 
   
